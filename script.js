@@ -6,8 +6,7 @@ function imc(){
    var altura = document.querySelector('#input2').value
 
    var imc = (peso/(altura*altura))*10000
-
-    
+   
    if(imc < 18.5){
         return res.innerHTML= `<style> h3{background-color:rgb(109, 187, 109); padding:10px;} </style>
         <h3>Resultado: ${imc.toFixed(2)} - Magreza`
