@@ -1,7 +1,10 @@
 # IMC
-IMC em Javascript
+IMC com HTML, CSS e JavaScript
 
-![image](https://user-images.githubusercontent.com/86370873/153060245-e2c63a75-6bd9-49ee-8d73-5bdea2dc781b.png)
-![image](https://user-images.githubusercontent.com/86370873/153060339-1e859237-244b-43cd-8de9-63a3c1142bfb.png)
-![image](https://user-images.githubusercontent.com/86370873/153060374-178b4eff-4190-4733-a30b-4c091a5093a3.png)
+
+![image](https://user-images.githubusercontent.com/86370873/153060564-0177f435-cbef-4d10-8dc2-f4e9d6ffd817.png)
+![image](https://user-images.githubusercontent.com/86370873/153060594-7afd825f-a387-46c7-b6e9-7783a7da2a4b.png)
+![image](https://user-images.githubusercontent.com/86370873/153060642-8d5da2af-a026-4616-b0b8-4f48d2119194.png)
+
+
 
